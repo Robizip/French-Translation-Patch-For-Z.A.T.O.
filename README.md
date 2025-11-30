@@ -9,18 +9,18 @@ French Translation Of "Z.A.T.O. // I Love the World and Everything In It" , a ga
 
 Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl" des fichiers de votre jeu.
 
-# Si vous voulez contribuer à la traduction
-- 1 : Téléchargez les fichiers en appuyant sur le bouton vert **"<> Code"** puis sur **"Download ZIP"**
-- 2 : Décompressez le patch puis modifiez les fichiers du patch avec quoi que ce soit qui puisse ouvrir du texte
-- 3 : Envoyez-moi ensuite les fichiers d'un façon ou d'un autre pour que je puisse les vérifier et les ajouter au patch <sub>*(Vous serrez évidemment crédité)*</sub>
-
-
 # État de la traduction :
 - Menus : Finie (normalement)
 - Intro : En cours.
 - Épisode 1 : Pas commencé
 - Épisode 2 : Pas commencé
 - Épisode 3 : Pas commencé
+
+## Si vous voulez contribuer à la traduction
+- 1 : Téléchargez les fichiers en appuyant sur le bouton vert **"<> Code"** puis sur **"Download ZIP"**
+- 2 : Décompressez le patch et modifiez les fichiers du patch présent dans "tl" puis "french" avec quoi que ce soit qui puisse ouvrir du texte
+- 3 : Envoyez-moi ensuite les fichiers d'un façon ou d'un autre pour que je puisse les vérifier et les ajouter au patch <sub>*(Vous serrez évidemment crédité)*</sub>
+
 
 ---
 Si vous avez un problème avec le patch, merci de me contacter par [email](mailto:Robot007c@tutanota.com) ou par Discord (robizip.).
