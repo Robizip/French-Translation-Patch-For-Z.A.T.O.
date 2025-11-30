@@ -4,13 +4,13 @@
 translate french start_2b370c74:
 
     # "Did you know that our Sun is a very unusual star?"
-    ""
+    "Savais-tu que notre Soleil était une étoile inabituelle?"
 
 # game/script.rpy:75
 translate french start_463eb867:
 
     # "To start with, it’s a yellow dwarf."
-    ""
+    "Pour commencer, c'est une naine jaune."
 
 # game/script.rpy:76
 translate french start_f4fe890b:
