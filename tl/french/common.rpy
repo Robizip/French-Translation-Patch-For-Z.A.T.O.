@@ -8,7 +8,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Synthèse vocale activée."
+    new "???"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
@@ -16,7 +16,7 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "b"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
