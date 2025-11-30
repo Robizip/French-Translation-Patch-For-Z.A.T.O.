@@ -4,15 +4,15 @@ translate french strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Synthèse vocale désactivée."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Synthèse vocale activée."
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Synthèse vocale activée."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -436,43 +436,43 @@ translate french strings:
 
     # renpy/common/00gui.rpy:445
     old "Are you sure?"
-    new ""
+    new "Êtes-vous sûr?"
 
     # renpy/common/00gui.rpy:446
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Êtes-vous sûr de vouloir supprimer cette sauvegarde?"
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Êtes-vous sûr de vouloir réécrire par dessus votre sauvagarde?"
 
     # renpy/common/00gui.rpy:448
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Charger va vous faire perdre de progression non sauvegardée\nÊtes-vous sûr?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to quit?"
-    new ""
+    new "Êtes-vous sûr de vouloir quitter le jeu?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new ""
+    new "Êtes-vous sûr de vouloir retourner au menu principal?\nCeci vous fera perdre la progression non sauvegardée."
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to end the replay?"
-    new ""
+    new "Êtes-vous sûr?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
-    new ""
+    new "Êtes-vous sûr?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
-    new ""
+    new "Êtes-vous sûr?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new ""
+    new "Êtes-vous sûr?"
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."

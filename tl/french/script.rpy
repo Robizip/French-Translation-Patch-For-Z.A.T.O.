@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2025-11-30 11:39
 
 # game/script.rpy:73
-translate french start_eac4ae65:
+translate french start_2b370c74:
 
     # "Did you know that our Sun is a very unusual star?"
     ""
