@@ -444,15 +444,15 @@ translate french strings:
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to overwrite your save?"
-    new "Êtes-vous sûr de vouloir réécrire par dessus votre sauvagarde?"
+    new "Êtes-vous sûr de vouloir\nréécrire par dessus votre sauvagarde?"
 
     # renpy/common/00gui.rpy:448
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Charger va vous faire perdre de progression non sauvegardée\nÊtes-vous sûr?"
+    new "Charger va vous faire perdre la\nprogression non sauvegardée.\nÊtes-vous sûr?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to quit?"
-    new "Êtes-vous sûr de vouloir quitter le jeu?"
+    new "Êtes-vous sûr de vouloir\nquitter le jeu?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -460,19 +460,19 @@ translate french strings:
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous sûr?"
+    new "Êtes-vous sûr de vouloir\nfinir le replay?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
-    new "Êtes-vous sûr?"
+    new "Êtes-vous sûr de vouloir\ncommencer à sauter des dialogues?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
-    new "Êtes-vous sûr?"
+    new "Êtes-vous sûr de vouloir sauter\njusqu'au prochain dialogues?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Êtes-vous sûr?"
+    new "Êtes-vous sûr de vouloir sauter\ndes dialogues inconnus jusqu'au prochain choix?"
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."
