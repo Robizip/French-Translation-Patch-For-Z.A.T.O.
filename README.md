@@ -10,8 +10,8 @@ French Translation Of "Z.A.T.O. // I Love the World and Everything In It" , a ga
 Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl" des fichiers de votre jeu.
 
 # État de la traduction :
-- Menus : Finie (normalement)
-- Intro : En cours.
+- Menus : Traduction Finie (normalement)
+- Intro : Jusqu'à ce qu'un dialogue soit dit par un personnage nommé.
 - Épisode 1 : Pas commencé
 - Épisode 2 : Pas commencé
 - Épisode 3 : Pas commencé
@@ -26,4 +26,4 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 Je sais que certains ont des problèmes avec le patch vu qu'il ne semble pas marcher. Je ne sais toujours pas la cause mais j'essaye activement de le régler.
 
 ---
-Si vous avez un problème avec le patch, merci de me contacter par [email](mailto:Robot007c@tutanota.com) ou par Discord (robizip.).
+Si vous avez un (autre) problème avec le patch, merci de me contacter par [email](mailto:Robot007c@tutanota.com) ou par Discord (robizip.).
