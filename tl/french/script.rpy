@@ -70,7 +70,7 @@ translate french start_38aafcbc:
 translate french start_d6911c56:
 
     # "I don’t remember where I read about this."
-    "Je ne me souviens pas quand j’ai lu ceci"
+    "Je ne me souviens pas quand j’ai lu ceci."
 
 # game/script.rpy:93
 translate french start_ce4b1e27:
@@ -88,31 +88,31 @@ translate french start_61b68228:
 translate french start_362016be:
 
     # "It’s not much of a view, to be honest."
-    "Ce n’est pas une vue terrible, pour être honnête"
+    "Ce n’est pas une vue terrible, pour être honnête."
 
 # game/script.rpy:96
 translate french start_e19da8bc:
 
     # extend " Not much of a sky, not much of a sun."
-    extend " Ce n’est pas non plus terrible pour un ciel, pour un soleil"
+    extend " Ce n’est pas non plus terrible pour un ciel, pour un soleil."
 
 # game/script.rpy:97
 translate french start_a69c39d1:
 
     # extend " I guess that’s the kind of region it is."
-    extend " Mais je suppose que c’est les conditions de cette région."
+    extend " Mais je suppose que c’est les conditions régionnales."
 
 # game/script.rpy:98
 translate french start_04d817f8:
 
     # "Some people say the sun is just lazing around in our parts, what with the constant snow."
-    "Certaines personnes disent que le soleil paresse dans cette partie du monde vu la neige constante"
+    "Certaines personnes disent que le soleil paresse dans cette partie du monde vu toute la neige constante."
 
 # game/script.rpy:99
 translate french start_fa761844:
 
     # "But people that go around saying that, well..."
-    "Mais les gens vadrouillent en disant ça, alors…"
+    "Mais les gens qui n'arrêtent pas de répéter ceci, eh bah..."
 
 # game/script.rpy:100
 translate french start_996e471b:
@@ -124,7 +124,7 @@ translate french start_996e471b:
 translate french start_a064a290:
 
     # "The more I thought about things like that and the more I learned, the more I realised how incredible everything is."
-    "Plus j’ai réfléchi à des choses comme ceci et plus j’ai appris, plus j’ai réalisé à quel point tout est si incroyable."
+    "Dès que j’ai commencé à réfléchir à des choses comme ceci, plus j’ai appris, et plus j’ai réalisé à quel point tout est si incroyable."
 
 # game/script.rpy:110
 translate french start_bd6a15bc:
@@ -136,19 +136,19 @@ translate french start_bd6a15bc:
 translate french start_4f18e5d7:
 
     # extend " I mean “improbable”."
-    extend " Le sens que je recherche, c'est “improbable”."
+    extend " Le sens recherché est plus “improbable”."
 
 # game/script.rpy:112
 translate french start_54e10e89:
 
     # "You can't deny the world is full of great coincidences."
-    "Tu ne peux pas nier que le monde est rempli de nombreuses coïncidences."
+    "Tu ne peux nier que ce monde est rempli de nombreuses coïncidences."
 
 # game/script.rpy:113
 translate french start_f63310dd:
 
     # extend " It's to the point where I've begun to ask myself how much of it we can attribute to pure chance."
-    extend " C'est à un point où j’ai commencé à me questionner sur à quel point nous pouvons nous attribuer à de la chance pure."
+    extend " Je suis arrivée à un point où j’ai commencé à me demander à quel point nous sommes le résultat d'une chance pure."
 
 # game/script.rpy:114
 translate french start_cd312a8a:
@@ -172,7 +172,7 @@ translate french start_5c45ea35:
 translate french start_f664b285:
 
     # extend " And of course, that's a lovely way to put it..."
-    extend " Et évidemment, c'est une belle manière de la dire…"
+    extend " Et évidemment, c'est une belle manière de la dire..."
 
 # game/script.rpy:118
 translate french start_1ad929b4:
@@ -232,7 +232,7 @@ translate french start_d2a60c5c:
 translate french start_97744645:
 
     # extend " But to say the universe itself shares that priority..."
-    extend " Mais à dire que l'univers lui-même partage cette priorité…"
+    extend " Mais à dire que l'univers lui-même partage cette priorité..."
 
 # game/script.rpy:137
 translate french start_5611d603:
@@ -244,7 +244,7 @@ translate french start_5611d603:
 translate french start_a20cefa7:
 
     # "..."
-    "…"
+    "..."
 
 # game/script.rpy:147
 translate french start_8a2dc954:
@@ -310,7 +310,7 @@ translate french start_0abd53b0:
 translate french start_551703c4:
 
     # extend " If I put it like that..."
-    extend " Si je le dis comme ça…"
+    extend " Si je le dis comme ça..."
 
 # game/script.rpy:158
 translate french start_11c3dbf5:
@@ -322,7 +322,7 @@ translate french start_11c3dbf5:
 translate french start_487dc364:
 
     # "Even if this wasn’t the case when it was born..."
-    "Même si ce n'était pas son cas quand il était né…"
+    "Même si ce n'était pas son cas quand il était né..."
 
 # game/script.rpy:168
 translate french start_5b403766:
