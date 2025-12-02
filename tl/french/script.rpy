@@ -1,5 +1,23 @@
 ﻿# TODO: Translation updated at 2025-11-30 11:39
 
+define tc = Character("[[PROFESSEURE]", color="#ffffff",)
+define c = Character("[[CAMARADE A]", color="#ffffff",)
+define cb = Character("[[CAMARADE B]", color="#ffffff",)
+define cc = Character("[[CAMARADE C]", color="#ffffff",)
+define cd = Character("[[CAMARADE D]", color="#ffffff",)
+define mm = Character("[[MÈRE]", color="#ffffff",)
+define d = Character("[[PÈRE]", color="#ffffff",)
+define lb = Character("[[BIBLIOTHÉCAIRE]", color="#ffffff",)
+define k = Character("[[ENFANT]", color="#ffffff",)
+define w = Character("[[FEMME]", color="#ffffff",)
+define mc = Character("[[CAMARADE DE MARINA]", color="#ffffff",)
+define n = Character("", kind=nvl, color="#ffffff",)
+define aa = Character("[[MOI]", color="#ffffff",)
+define tt = Character("[[FILLE]", color="#ffffff",)
+define bb = Character("[[GARÇON]", color="#ffffff",)
+define up = Character("[[ÉTUDIANT A]", color="#ffffff",)
+define ud = Character("[[ÉTUDIANT B]", color="#ffffff",)
+
 # game/script.rpy:73
 translate french start_2b370c74:
 
@@ -514,181 +532,181 @@ translate french start_0c5f900b:
 translate french start_c01bb290:
 
     # "I look up from my desk."
-    ""
+    "Je lève les yeux de mon bureau."
 
 # game/script.rpy:211
 translate french start_9535a023:
 
     # "A low hum runs through the class."
-    ""
+    "Un léger bourdonnement se fait entendre dans la classe."
 
 # game/script.rpy:212
 translate french start_e7874cb1:
 
     # c "Grachevskaya?"
-    c ""
+    c "Grachevskaya?"
 
 # game/script.rpy:213
 translate french start_983c803f:
 
     # cb "What?"
-    cb ""
+    cb "Quoi?"
 
 # game/script.rpy:214
 translate french start_a1578152:
 
     # cc "Seriously?"
-    cc ""
+    cc "Sérieusement?"
 
 # game/script.rpy:215
 translate french start_b7026667:
 
     # extend " She’s just skipping..."
-    extend ""
+    extend " Elle doit juste encore sécher..."
 
 # game/script.rpy:216
 translate french start_7c571234:
 
     # cd "Nah, she ran off with that one guy."
-    cd ""
+    cd "Nan, elle est partie avec ce mec-là."
 
 # game/script.rpy:217
 translate french start_e2f4f09e:
 
     # cb "You saw?"
-    cb ""
+    cb "Tu l'as vu?"
 
 # game/script.rpy:218
 translate french start_cb7d9092:
 
     # cd "No, but come on! You know her, she's totally-"
-    cd ""
+    cd "Non, mais enfin! Tu la connais, elle est totalement-"
 
 # game/script.rpy:220
 translate french start_5487915c:
 
     # tc "{cps=0}{size=+5}Silence!"
-    tc ""
+    tc "{cps=0}{size=+5}Silence!"
 
 # game/script.rpy:221
 translate french start_6ca2b227:
 
     # "The teacher taps her journal on the desk."
-    ""
+    "La professeure tape avec son journal sur son bureau."
 
 # game/script.rpy:222
 translate french start_eea46458:
 
     # tc "Ira’s parents filed the report yesterday night."
-    tc ""
+    tc "Les parents d'Ira ont rempli un rapport hier soir."
 
 # game/script.rpy:223
 translate french start_fb764f46:
 
     # extend " They haven’t seen her since she left for school."
-    extend ""
+    extend " Ils ne l'ont pas revue depuis qu'elle a quitté l'école hier."
 
 # game/script.rpy:224
 translate french start_888070b9:
 
     # "Another round of whispers."
-    ""
+    "De nouveaux chuchotements se font entendre."
 
 # game/script.rpy:225
 translate french start_6f89c2df:
 
     # extend " The teacher raises her voice."
-    extend ""
+    extend " La professeure hausse sa voix."
 
 # game/script.rpy:226
 translate french start_1ccd3708:
 
     # tc "So if any of you have any information that might help in finding Ira, please report it to the teacher’s office or the police after class."
-    tc ""
+    tc "Alors si l'un d'entre vous a des informations pouvant aider à retrouver Ira, merci vous signaler au bureau des proffesseurs ou à la police après les cours."
 
 # game/script.rpy:227
 translate french start_5268d645:
 
     # extend " That is all."
-    extend ""
+    extend " C'est tout."
 
 # game/script.rpy:228
 translate french start_4de175ef:
 
     # extend " Onto the lesson."
-    extend ""
+    extend " Commençons la leçon."
 
 # game/script.rpy:229
 translate french start_525f00d6:
 
     # "A chair creaks in the back."
-    ""
+    "Une chaise grince dans l'arrière-plan."
 
 # game/script.rpy:232
 translate french start_e7d41d1b:
 
     # g "Wait!"
-    g ""
+    g "Attendez!"
 
 # game/script.rpy:233
 translate french start_73f72e8a:
 
     # extend " You really expect us to just study like normal after hearing that?"
-    extend ""
+    extend " Vous vous attendez vraiment à ce que l'on étudie normalement après avoir entendu ça?"
 
 # game/script.rpy:234
 translate french start_6266dd1c:
 
     # c "Yeah!"
-    c ""
+    c "Ouais!"
 
 # game/script.rpy:235
 translate french start_9d36e996:
 
     # cb "Yeah!! We’re shocked, you know."
-    cb ""
+    cb "Ouais!! Vous savez, nous sommes vraiment boulversé."
 
 # game/script.rpy:236
 translate french start_6b3cf13a:
 
     # cc "We’re worried sick!"
-    cc ""
+    cc "Nous sommes vraiment inquiets!"
 
 # game/script.rpy:240
 translate french start_ee98c5c7:
 
     # g "Seriously, our classmate’s missing."
-    g ""
+    g "Sérieusement, notre camarade a disparu."
 
 # game/script.rpy:241
 translate french start_f605ade0:
 
     # extend " Our friend, our Irochka!"
-    extend ""
+    extend " Notre amie, notre Irochka!"
 
 # game/script.rpy:242
 translate french start_816b2e57:
 
     # "The room fills with repulsive giggles."
-    ""
+    "La classe se remplit de rires répugnants."
 
 # game/script.rpy:243
 translate french start_38dd56ba:
 
     # tc "Cut it out."
-    tc ""
+    tc "Arrêtez tous vos rires."
 
 # game/script.rpy:244
 translate french start_c466a4e5:
 
     # extend " Garin, sit back down."
-    extend ""
+    extend " Garin, rassieds-toi."
 
 # game/script.rpy:247
 translate french start_cb6155f9:
 
     # "The teacher’s voice sounds just as dry as it did when she broke the news."
-    ""
+    "La voix de la professeure est aussi sèche que lorsqu'elle a annoncé la nouvelle."
 
 # game/script.rpy:248
 translate french start_6d19de0f:
@@ -730,13 +748,13 @@ translate french start_a3891bef:
 translate french start_8ae2ccb7:
 
     # extend " \nIt’s December 19th."
-    extend ""
+    extend " \nOn est le 19 Décembre."
 
 # game/script.rpy:255
 translate french start_37e2de7a:
 
     # "A bird flies past the window."
-    ""
+    "Un oiseau passe devant la fenêtre."
 
 # game/script.rpy:274
 translate french start_5ec13ae8:

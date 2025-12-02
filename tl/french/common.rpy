@@ -284,11 +284,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:445
     old "Load slot %s: [text]"
-    new ""
+    new "Slot de chargement %s: [text]"
 
     # renpy/common/00action_file.rpy:498
     old "Delete slot [text]"
-    new ""
+    new "Supprimer le slot [text]"
 
     # renpy/common/00action_file.rpy:577
     old "File page auto"
@@ -304,11 +304,11 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:639
     old "Page {}"
-    new ""
+    new "Page {}"
 
     # renpy/common/00action_file.rpy:639
     old "Automatic saves"
-    new ""
+    new "Sauvegardes Automatiques"
 
     # renpy/common/00action_file.rpy:639
     old "Quick saves"
@@ -348,15 +348,15 @@ translate french strings:
 
     # renpy/common/00director.rpy:1481
     old "⬆"
-    new ""
+    new "⬆"
 
     # renpy/common/00director.rpy:1487
     old "⬇"
-    new ""
+    new "⬇"
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new ""
+    new "Fini"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -364,7 +364,7 @@ translate french strings:
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
-    new ""
+    new "(tag)"
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
@@ -392,15 +392,15 @@ translate french strings:
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Ajouter"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Annuler"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Enlever"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
@@ -904,15 +904,15 @@ translate french strings:
 
     # renpy/common/00updater.rpy:1631
     old "An error has occured:"
-    new ""
+    new "Une erreur est arrivé:"
 
     # renpy/common/00updater.rpy:1633
     old "Checking for updates."
-    new ""
+    new "Vérification des mises à jour."
 
     # renpy/common/00updater.rpy:1635
     old "This program is up to date."
-    new ""
+    new "Ce programme est à jour."
 
     # renpy/common/00updater.rpy:1637
     old "[u.version] is available. Do you want to install it?"
