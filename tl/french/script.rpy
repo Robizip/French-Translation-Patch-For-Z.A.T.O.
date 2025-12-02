@@ -724,25 +724,25 @@ translate french start_b1140ae4:
 translate french start_c65dc8d7:
 
     # extend " resolve itself just fine."
-    extend " se résoudre bien d'elle-même."
+    extend " juste se résoudre assez bien d'elle-même."
 
 # game/script.rpy:251
 translate french start_be6b251f:
 
     # extend " So let’s not act dramatic."
-    extend ""
+    extend " Alors, ne soit pas aussi dramatique."
 
 # game/script.rpy:252
 translate french start_a32fad53:
 
     # tc "If you have anything valuable to say, I’ll be happy to hear it in the office."
-    tc ""
+    tc "Si tu as quoi ce soit à dire qui ait de l'importance, je serais heureuse de l'entendre dans le bureau."
 
 # game/script.rpy:253
 translate french start_a3891bef:
 
     # "She puts the chalk down and begins the lesson."
-    ""
+    "Elle prit la craie et commença la leçon."
 
 # game/script.rpy:254
 translate french start_8ae2ccb7:
