@@ -904,7 +904,7 @@ translate french start_d67fc9c1:
 translate french start_4d5b4918:
 
     # extend " But she's, like, for sure with the guy, right?"
-    extend " Peut-être, sans doute, qu’elle est avec le mec, pas vrai?"
+    extend " Peut-être, est-elle, sans doute, avec ce mec-là, pas vrai?"
 
 # game/script.rpy:308
 translate french start_5e1d4a7c:
@@ -982,13 +982,13 @@ translate french start_9b061a6f:
 translate french start_51b2d3e0:
 
     # extend " It's not unusual for Ira to wander off somewhere on her own."
-    extend " Ce n'est pas anormale pour Ira de vagabonder quelque part librement à sa guise."
+    extend " Ce n'est pas anormal pour Ira de vagabonder quelque part librement à sa guise."
 
 # game/script.rpy:324
 translate french start_cc9965a6:
 
     # extend " I'm not treating this news with any real gravity."
-    extend " Je pense que je ne traite pas cette nouvelle avec assez de sérieux."
+    extend " Je pense que je ne traite pas cette disparition avec assez de sérieux."
 
 # game/script.rpy:325
 translate french start_3d887658:
@@ -1048,7 +1048,7 @@ translate french start_d38688df:
 translate french start_1c85b8ef:
 
     # extend " Just picturing it makes me feel glum."
-    extend " Et juste à me les visualiser me chagrine."
+    extend " Et juste visualiser cette situation de leur point de vue me chagrine."
 
 # game/script.rpy:350
 translate french start_767f1dc3:
@@ -1120,7 +1120,7 @@ translate french start_23516847:
 translate french start_208f65d4:
 
     # extend " I've never seen or heard anything like that."
-    extend "Je n'ai jamais vu ou entendu quelque chose comme ça."
+    extend " Je n'ai jamais vu ou entendu quelque chose comme ça."
 
 # game/script.rpy:368
 translate french start_0e5aa80b:
