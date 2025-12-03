@@ -190,7 +190,7 @@ translate french start_5c45ea35:
 translate french start_f664b285:
 
     # extend " And of course, that's a lovely way to put it..."
-    extend " Et évidemment, c’est une très belle manière de le dire..."
+    extend " Et évidemment, c’est une très belle manière de l’énoncer..."
 
 # game/script.rpy:118
 translate french start_1ad929b4:
@@ -328,7 +328,7 @@ translate french start_0abd53b0:
 translate french start_551703c4:
 
     # extend " If I put it like that..."
-    extend " Si je le dis comme ça..."
+    extend " Si je l’énonce comme ça..."
 
 # game/script.rpy:158
 translate french start_11c3dbf5:
@@ -412,7 +412,7 @@ translate french start_2cc38dd9:
 translate french start_7bb963bb:
 
     # extend " You can say that its observation value equals infinity."
-    extend " On peut même dire que sa valeur d’observation est égal à l’infini."
+    extend " On peut même dire que sa valeur d’observation est égale à infini."
 
 # game/script.rpy:180
 translate french start_1e5eb113:
@@ -448,7 +448,7 @@ translate french start_f4ba2dd9:
 translate french start_b1edf035:
 
     # "When I put it like that, it sounds like all of us are extras at a party..."
-    "Quand je le dis comme ça, cela sonne comme si nous étions tous des invités supplémentaires à une fête..."
+    "Quand je l’énonce comme ça, cela sonne comme si nous étions tous des invités supplémentaires à une fête..."
 
 # game/script.rpy:186
 translate french start_e7e0f1c3:
@@ -1072,211 +1072,211 @@ translate french start_a20cefa7_1:
 translate french start_cd657ead:
 
     # "It's not like we’ve ever been friends."
-    "Ce n'est pas comme si nous étions déjà amis."
+    "Ce n’est pas comme si nous étions déjà amis."
 
 # game/script.rpy:360
 translate french start_4bffa3ff:
 
     # extend " It would be stranger if I acted all torn up about it, right?"
-    extend ""
+    extend " Ça serait étrange si j’agissais comme si je lui en voulait pour ça, pas vrai? "
 
 # game/script.rpy:361
 translate french start_85d3f999:
 
     # "She’s just that kind of person."
-    ""
+    "Elle est juste ce type de personne."
 
 # game/script.rpy:362
 translate french start_a18e188e:
 
     # extend " Always getting herself in trouble, always hanging out in places she’s not supposed to be at."
-    extend ""
+    extend " Toujours à s'attirer les problèmes, à traîner là où elle ne devrait pas être."
 
 # game/script.rpy:363
 translate french start_7e29faee:
 
     # "They’re right, this wouldn’t be the first time Ira left for god knows where."
-    ""
+    "Ils ont raison, ça ne serait pas la premier fois qu'Ira parte on ne sait où pour aucune bonne raison."
 
 # game/script.rpy:364
 translate french start_ddcdf56a:
 
     # "But is it really true?"
-    ""
+    "Mais est-ce bien vrai?"
 
 # game/script.rpy:365
 translate french start_87a5de14:
 
     # extend " The stuff they said about that older man..."
-    extend ""
+    extend " Tout ce qu'ils ont dit sur ce vieil homme..."
 
 # game/script.rpy:366
 translate french start_23516847:
 
     # "I’ve never even..."
-    ""
+    "Je n'ai même jamais..."
 
 # game/script.rpy:367
 translate french start_208f65d4:
 
     # extend " I've never seen or heard anything like that."
-    extend ""
+    extend "Je n'ai jamais vu ou entendu quelque chose comme ça."
 
 # game/script.rpy:368
 translate french start_0e5aa80b:
 
     # extend " Even though this whole time..."
-    extend ""
+    extend " Même après tout ce temps..."
 
 # game/script.rpy:375
 translate french start_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/script.rpy:376
 translate french start_2eec9a39:
 
     # extend "I suppose it’s plausible, knowing how some girls are."
-    extend ""
+    extend "Je supppose que c'est possible, sachant comment sont certaines filles."
 
 # game/script.rpy:377
 translate french start_a91326a7:
 
     # extend " Even so, I’d never have thought Ira would be the type to be lovestruck like that."
-    extend ""
+    extend " Même si je n'aurais jamais pensé qu'Ira serait ce type de personne à être amoureuse comme ça."
 
 # game/script.rpy:378
 translate french start_f0b18387:
 
     # "Lovestruck, huh..."
-    ""
+    "Amoureuse, hein..."
 
 # game/script.rpy:379
 translate french start_802aedc6:
 
     # extend " When I put it that way, then it’s almost..."
-    extend ""
+    extend " Même quand je n’énonce comme ça, cela en devient presque..."
 
 # game/script.rpy:380
 translate french start_21adb742:
 
     # extend " Yeah, it’s most definitely cute."
-    extend ""
+    extend " Ouais, c’est vraiment mignon."
 
 # game/script.rpy:381
 translate french start_eb823057:
 
     # extend " \nIra in love..."
-    extend ""
+    extend " \nIra amoureuse..."
 
 # game/script.rpy:382
 translate french start_381fedb2:
 
     # extend " Forbidden love, too!"
-    extend ""
+    extend " Un amour interdit, aussi!"
 
 # game/script.rpy:383
 translate french start_47c60844:
 
     # "Wow, I’d never have guessed."
-    ""
+    "Woah, je ne l’aurais jamais deviné."
 
 # game/script.rpy:384
 translate french start_a92c0db8:
 
     # extend " I never took that girl for a romantic."
-    extend ""
+    extend " Je n'ai jamais prise cette fille comme une romantique."
 
 # game/script.rpy:385
 translate french start_7f9f9613:
 
     # extend " But she is a girl at the end of the day."
-    extend ""
+    extend " Mais au final, ça reste quand même une fille."
 
 # game/script.rpy:386
 translate french start_d9ea39f4:
 
     # extend " And she does like those types of books..."
-    extend ""
+    extend " Et elle aime sans doute ces types de livres..."
 
 # game/script.rpy:387
 translate french start_306179aa:
 
     # extend " So perhaps..."
-    extend ""
+    extend " Alors peut-être que..."
 
 # game/script.rpy:388
 translate french start_5f932624:
 
     # "{size=+5}{cps=100}{b}She was planning to elope all along?!"
-    ""
+    "{size=+5}{cps=100}{b}Peut-être qu'elle avait prévue de s'enfuir avec son amour depuis tout ce trmps?!"
 
 # game/script.rpy:389
 translate french start_68afa09a:
 
     # "{cps=100}Augh, crap!"
-    ""
+    "{cps=100}Ah, merde!"
 
 # game/script.rpy:390
 translate french start_42e5ec0a:
 
     # extend " Crap, crap, it’s all so complicated...!"
-    extend ""
+    extend "Merde, merde, tout est si compliqué...!"
 
 # game/script.rpy:391
 translate french start_4d42bdcb:
 
     # "{cps=100}I’m really torn on this, I really am."
-    ""
+    "{cps=100}Je suis vraiment partagé, je le suis vraiment."
 
 # game/script.rpy:392
 translate french start_8ca5fc27:
 
     # "{cps=100}On one hand, it’s super romantic."
-    ""
+    "{cps=100}D'un côté, c'est super romantique."
 
 # game/script.rpy:393
 translate french start_53aa2b34:
 
     # extend " Such beautiful young love with no regard for what anyone thinks..."
-    extend ""
+    extend " Un si bel amour de jeunesse où les deux se fichent de ce que les autres pensent..."
 
 # game/script.rpy:394
 translate french start_8699f590:
 
     # extend " It’s so incredible!"
-    extend ""
+    extend " C'est si incroyable!"
 
 # game/script.rpy:395
 translate french start_8d5ebb01:
 
     # extend " It’s incredibly cute!"
-    extend ""
+    extend " Si incroyablement mignon!"
 
 # game/script.rpy:399
 translate french start_abb554b5:
 
     # "But on the other hand, I'm really..."
-    ""
+    "Mais d'un autre côté, je suis vraiment..."
 
 # game/script.rpy:400
 translate french start_546159b0:
 
     # extend " sad."
-    extend ""
+    extend " triste."
 
 # game/script.rpy:401
 translate french start_d14e7e2c:
 
     # "It's selfish and it's dumb, but if Ira is really gone..."
-    ""
+    "C'est égoïste et si stupide, mais si Ira a vraiment disparu..."
 
 # game/script.rpy:402
 translate french start_f0080d7b:
 
     # extend " It's like I've got nothing to hope for anymore."
-    extend ""
+    extend " C'est comme si je n'avais plus d'espoir en rien."
 
 # game/script.rpy:407
 translate french start_4b0219d0:
