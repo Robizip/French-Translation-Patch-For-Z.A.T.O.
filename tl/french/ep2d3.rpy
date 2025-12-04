@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep2d3.rpy:169
+﻿# game/ep2d3.rpy:169
 translate french ep2d3_95afc9ad:
 
     # "The world is as bright as a sunless day allows."

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep1.rpy:31
+﻿# game/ep1.rpy:31
 translate french ep1_6b97733b:
 
     # g "Wh-{w=0.3}what the hell is your problem?!"

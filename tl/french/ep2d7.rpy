@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep2d7.rpy:21
+﻿# game/ep2d7.rpy:21
 translate french ep2d7_24a430a1:
 
     # a sus "Sick?"

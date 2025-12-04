@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep2d6.rpy:7
+﻿# game/ep2d6.rpy:7
 translate french ep2d6_76b2fe88:
 
     # nvl clear

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-translate french strings:
+﻿translate french strings:
 
     # game/screens.rpy:256
     old "BACK"

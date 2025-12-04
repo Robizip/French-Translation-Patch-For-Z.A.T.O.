@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep3.rpy:21
+﻿# game/ep3.rpy:21
 translate french ep3_78672ed6:
 
     # n "“Today is a good day.”"

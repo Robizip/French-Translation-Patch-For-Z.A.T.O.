@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-define tc = Character("[[PROFESSEURE]", color="#ffffff",)
+﻿define tc = Character("[[PROFESSEURE]", color="#ffffff",)
 define c = Character("[[CAMARADE A]", color="#ffffff",)
 define cb = Character("[[CAMARADE B]", color="#ffffff",)
 define cc = Character("[[CAMARADE C]", color="#ffffff",)
@@ -1804,13 +1802,13 @@ translate french start_a45aeb59:
 translate french start_c29080bf:
 
     # extend " Yeah, I shouldn't have wished for that."
-    extend " Ouais, je n’aurais pas dû souhaiter ça. "
+    extend " Ouais, je n’aurais pas dû souhaiter ça."
 
 # game/script.rpy:516
 translate french start_60702c97:
 
     # extend " If Ira saw that, it would just add fuel to the fire."
-    extend " Si Ira avait vu ça, elle aurait juste jeter de l'huile sur le feu."
+    extend " Si Ira avait pu voir ça, elle aurait juste jeter de l'huile sur le feu."
 
 # game/script.rpy:517
 translate french start_24c24517:
@@ -1822,79 +1820,79 @@ translate french start_24c24517:
 translate french start_849ebc50:
 
     # extend " \nIt's a good thing, it's a really great thing."
-    extend ""
+    extend "\nC’est une bonne chose, une très bonne chose."
 
 # game/script.rpy:524
 translate french start_09d64919:
 
     # "Hah..."
-    ""
+    "Ha ha..."
 
 # game/script.rpy:525
 translate french start_804e7cb6:
 
     # "At least these guys don’t bother me for the rest of the day."
-    ""
+    "Au moins, ils ne m'ont pas embêter pour le reste de la journée."
 
 # game/script.rpy:526
 translate french start_9c73ee07:
 
     # extend " Everyone's too preoccupied with gossip."
-    extend ""
+    extend " Tout le monde est beaucoup trop préoccupé par les ragots."
 
 # game/script.rpy:527
 translate french start_1ae8fd52:
 
     # "I can’t focus on studying either."
-    ""
+    "Je ne peux pas plus me concentrer sur les études par ailleurs."
 
 # game/script.rpy:528
 translate french start_2de72e36:
 
     # extend " I keep thinking..."
-    extend ""
+    extend " Je n’arrête pas d’y penser..."
 
 # game/script.rpy:534
 translate french start_c4373e5b:
 
     # "The last time I saw Ira..."
-    ""
+    "La dernière fois que j’ai vu Ira..."
 
 # game/script.rpy:535
 translate french start_f3a6162c:
 
     # "The teacher says her parents saw her leaving in the morning."
-    ""
+    "La professeure a dit que ses parents l’ont vu pour la dernière fois dans la matinée."
 
 # game/script.rpy:536
 translate french start_ab902ff7:
 
     # extend " But she didn’t show up to class."
-    extend ""
+    extend " Mais elle ne s'est pas montrée en classe."
 
 # game/script.rpy:537
 translate french start_c0f486d3:
 
     # "That part's nothing new."
-    ""
+    "Mais là, rien de nouveau."
 
 # game/script.rpy:538
 translate french start_f234dcd7:
 
     # extend " Ira has always had a bad attendance record."
-    extend ""
+    extend " Ira a toujours eu un faible taux de présence en cours."
 
 # game/script.rpy:539
 translate french start_6e99bb30:
 
     # "So I assume she skipped as usual..."
-    ""
+    "Alors j’en déduit qu’elle a séché les cours comme d’habitude..."
 
 # game/script.rpy:540
 translate french start_f9c2bd3c:
 
     # extend " and went to see that man they talked about?"
-    extend ""
+    extend " et qu’elle est allé voir l’homme dont ils parlent tous?"
 
 # game/script.rpy:541
 translate french start_677a1ab7:
@@ -1912,7 +1910,7 @@ translate french start_c138523d:
 translate french start_33b959a6:
 
     # extend " in that case, yesterday evening..."
-    extend " dans ce cas, l'évènement d’hier..."
+    extend " dans ce cas, l’évènement d’hier..."
 
 # game/script.rpy:567
 translate french start_61e86d26:

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep2d1.rpy:33
+﻿# game/ep2d1.rpy:33
 translate french ep2d1_aef4bb1b:
 
     # "The inside of the Zvezdochka cafe is warm."

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep2d2.rpy:9
+﻿# game/ep2d2.rpy:9
 translate french ep2d2_489e1ffa:
 
     # "Aaaagh, I forgot!!" with vpunch

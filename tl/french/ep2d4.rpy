@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep2d4.rpy:19
+﻿# game/ep2d4.rpy:19
 translate french ep2d4_6cb9561c:
 
     # m "Man, the constant dark is making me depressed already..."

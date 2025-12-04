@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2025-11-30 11:39
-
-# game/ep2d5.rpy:18
+﻿# game/ep2d5.rpy:18
 translate french ep2d5_e08abd6c:
 
     # "The sky hangs low."
