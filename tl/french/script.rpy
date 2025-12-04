@@ -1178,13 +1178,13 @@ translate french start_381fedb2:
 translate french start_47c60844:
 
     # "Wow, I’d never have guessed."
-    "Woah, je ne l’aurais jamais deviné."
+    "Woah, je n’aurais jamais deviné."
 
 # game/script.rpy:384
 translate french start_a92c0db8:
 
     # extend " I never took that girl for a romantic."
-    extend " Je n’ai jamais prise cette fille comme une romantique."
+    extend " Je ne l’ai jamais prise comme une romantique."
 
 # game/script.rpy:385
 translate french start_7f9f9613:
@@ -1208,7 +1208,7 @@ translate french start_306179aa:
 translate french start_5f932624:
 
     # "{size=+5}{cps=100}{b}She was planning to elope all along?!"
-    "{size=+5}{cps=100}{b}Peut-être avait-elle prévue de s’enfuir avec son amour depuis tout ce trmps?!"
+    "{size=+5}{cps=100}{b}Peut-être avait-elle prévue de s’enfuir avec son amant depuis tout ce trmps?!"
 
 # game/script.rpy:389
 translate french start_68afa09a:
@@ -1226,7 +1226,7 @@ translate french start_42e5ec0a:
 translate french start_4d42bdcb:
 
     # "{cps=100}I’m really torn on this, I really am."
-    "{cps=100}Je suis vraiment partagé, mais vraiment."
+    "{cps=100}Je suis partagée, vraiment partagée."
 
 # game/script.rpy:392
 translate french start_8ca5fc27:
@@ -1238,7 +1238,7 @@ translate french start_8ca5fc27:
 translate french start_53aa2b34:
 
     # extend " Such beautiful young love with no regard for what anyone thinks..."
-    extend " Un si bel amour de jeunesse où les deux se fichent de ce que les autres pensent..."
+    extend " Un si bel amour de jeunesse, sans se préoccuper du regard des autres..."
 
 # game/script.rpy:394
 translate french start_8699f590:
@@ -1268,7 +1268,7 @@ translate french start_546159b0:
 translate french start_d14e7e2c:
 
     # "It's selfish and it's dumb, but if Ira is really gone..."
-    "C’est égoïste et si stupide, mais si Ira a vraiment disparu..."
+    "C’est égoïste et si stupide, mais si Ira a vraiment disparue..."
 
 # game/script.rpy:402
 translate french start_f0080d7b:
@@ -1292,7 +1292,7 @@ translate french start_b10695fa:
 translate french start_499774a2:
 
     # g "You know anything about this?"
-    g "Sais-tu quelque chose à propos de ça?"
+    g "Sais-tu quelque chose à propos de cette histoire?"
 
 # game/script.rpy:412
 translate french start_3c2d5d43:
@@ -1310,19 +1310,19 @@ translate french start_5846b251:
 translate french start_96494572:
 
     # g "Well, you two were pretty close, right?"
-    g "Hé bah, vous êtiez quand même assez proches, pas vrai?"
+    g "Hé bah, vous étiez quand même assez proches, pas vrai?"
 
 # game/script.rpy:415
 translate french start_4b60ff30:
 
     # "Their whole group chuckles."
-    "Tout le groupe glousse."
+    "Tout le groupe éclate de rire."
 
 # game/script.rpy:416
 translate french start_06afbe4d:
 
     # a um "We weren't..."
-    a um "Nous n’étions pas..."
+    a um "Bah, nous n’étions pas..."
 
 # game/script.rpy:417
 translate french start_aea1b648:
@@ -1382,7 +1382,7 @@ translate french start_f013b6b6:
 translate french start_553cc184:
 
     # extend " Grachevskaya's screwing the old guy, she ain't like that."
-    extend " Grachevskaya’s baise avec le vieux mec, elle n’est pas de ce bord."
+    extend " Grachevskaya’s baise avec le vieux mec, donc elle n’est pas de ce bord."
 
 # game/script.rpy:431
 translate french start_40ff54bb:
@@ -1400,7 +1400,7 @@ translate french start_a07f62b2:
 translate french start_f3d41c81:
 
     # a concern "I don't, it's..."
-    a concern "Non, c’est..."
+    a concern "Non, c’est que..."
 
 # game/script.rpy:434
 translate french start_13b3178c:
@@ -1424,7 +1424,7 @@ translate french start_511858d4:
 translate french start_68f6717a:
 
     # extend " You really a lesbo or something?"
-    extend " Tu es vraiment lesbienne ou quelque chose comme ça?"
+    extend " Tu es vraiment lesbienne ou quoi?"
 
 # game/script.rpy:440
 translate french start_94dc30a3:
@@ -1442,7 +1442,7 @@ translate french start_7b212045:
 translate french start_d84c307e:
 
     # "What can I even say to that?"
-    "De toute façon, je pourrais dire quoi à ça?"
+    "De toute façon, je pourrais faire quoi face à ça?"
 
 # game/script.rpy:445
 translate french start_78c1fd43:
@@ -1478,13 +1478,13 @@ translate french start_6d8cc217:
 translate french start_51dba0f9:
 
     # extend " She doesn't even know there's a missing report."
-    extend " Peut-être ne sait-elle même pas qu’il y a un signalement de disparition."
+    extend " Peut-être ne sait-elle même pas qu’il y a eu un signalement de disparition."
 
 # game/script.rpy:451
 translate french start_8658fba2:
 
     # "Maybe she has already left her lover’s place."
-    "Peut-être a-t-elle déjà quittée la maison de son amant."
+    "Peut-être a-t-elle déjà quitté la maison de son amant."
 
 # game/script.rpy:452
 translate french start_5f0cf7d2:
@@ -1502,7 +1502,7 @@ translate french start_0ccba116:
 translate french start_cfb074dd:
 
     # "She's already left her wet puffy jacket in the cloakroom."
-    "Elle a déjà laissée son épaisse veste imperméable dans le vestiaire."
+    "Elle a déjà laissé son épaisse veste imperméable dans le vestiaire."
 
 # game/script.rpy:455
 translate french start_ea47a953:
@@ -1514,7 +1514,7 @@ translate french start_ea47a953:
 translate french start_42b25f1a:
 
     # extend " Up the stairs, to the left..."
-    extend " Elle monte les escaliers, vers la gauche..."
+    extend " Et là, elle monte les escaliers, vers la gauche..."
 
 # game/script.rpy:457
 translate french start_9c618390:
@@ -1538,7 +1538,7 @@ translate french start_7e00678a:
 translate french start_e1da3a15:
 
     # extend " I hear her, I can hear her footsteps!"
-    extend " Je l’entend, j'entends le bruit de ses pas!"
+    extend " Je l’entends, j'entends le bruit de ses pas!"
 
 # game/script.rpy:461
 translate french start_d6772e0b:
@@ -1616,7 +1616,7 @@ translate french start_e5587083:
 translate french start_0414e9d0:
 
     # c "Yeah, you don't have a boyfriend, right, Shubina?"
-    c "Ouais, c'est vrai, tu n’as pas de petit-copain Shubina, hein?"
+    c "Ouais, c'est vrai ça, tu n’as pas de petit copain Shubina?"
 
 # game/script.rpy:478
 translate french start_70eb4a13:
@@ -1754,7 +1754,7 @@ translate french start_336067e1:
 translate french start_8b242d0c:
 
     # extend " It's not like it works anyway, so why do I keep doing it?"
-    extend " Ce n’est pas comme si ça marchait de tout façon, donc pourquoi je continue à le faire?"
+    extend " Ce n’est pas comme si ça marchait de tout façon alors pourquoi je continue à le faire?"
 
 # game/script.rpy:508
 translate french start_f9e0c1bf:
@@ -1772,19 +1772,19 @@ translate french start_9b44fe0b:
 translate french start_3500765a:
 
     # extend " It just makes me feel stupid every time."
-    extend " Ça me fait juste me sentir stupide à chaque fois."
+    extend " Ça me fait juste me sentir plus stupide à chaque fois."
 
 # game/script.rpy:511
 translate french start_a2eff528:
 
     # "If Ira came in through that door and beat them up right then and there, would it really help my case?"
-    "Si Ira passe cette porte et les tabaissait sur-le-champ, est-ce que ça réglerait vraiment le problème?"
+    "Si Ira passe cette porte et les tabassait sur-le-champ, est-ce que ça réglerait vraiment le problème?"
 
 # game/script.rpy:512
 translate french start_1e7532a0:
 
     # "They'd probably keep saying those same things behind her back."
-    "Elle dit probalement les mêmes choses derrière mon dos"
+    "Elle dit probalement les mêmes choses derrière mon dos."
 
 # game/script.rpy:513
 translate french start_3372b664:
@@ -1796,19 +1796,19 @@ translate french start_3372b664:
 translate french start_a45aeb59:
 
     # "I guess it really would be for the worse."
-    "je suppose que ça serait vraiment pour le pire."
+    "Je suppose que ça serait encore pire."
 
 # game/script.rpy:515
 translate french start_c29080bf:
 
     # extend " Yeah, I shouldn't have wished for that."
-    extend " Ouais, je n’aurais pas dû souhaiter ça."
+    extend " Ouais, je ne devrais pas souhaiter ça."
 
 # game/script.rpy:516
 translate french start_60702c97:
 
     # extend " If Ira saw that, it would just add fuel to the fire."
-    extend " Si Ira avait pu voir ça, elle aurait juste jeter de l'huile sur le feu."
+    extend " Si Ira avait pu voir ça, elle aurait juste jeter de l’huile sur le feu."
 
 # game/script.rpy:517
 translate french start_24c24517:
@@ -1832,7 +1832,7 @@ translate french start_09d64919:
 translate french start_804e7cb6:
 
     # "At least these guys don’t bother me for the rest of the day."
-    "Au moins, ils ne m'ont pas embêter pour le reste de la journée."
+    "Au moins, ils ne m’ont pas embêtés durant le reste de la journée."
 
 # game/script.rpy:526
 translate french start_9c73ee07:
@@ -1844,7 +1844,7 @@ translate french start_9c73ee07:
 translate french start_1ae8fd52:
 
     # "I can’t focus on studying either."
-    "Je ne peux pas plus me concentrer sur les études par ailleurs."
+    "Je n'arrive pas plus à me concentrer sur le fait d’étudier."
 
 # game/script.rpy:528
 translate french start_2de72e36:
@@ -1868,7 +1868,7 @@ translate french start_f3a6162c:
 translate french start_ab902ff7:
 
     # extend " But she didn’t show up to class."
-    extend " Mais elle ne s'est pas montrée en classe."
+    extend " Mais elle ne s'est pas présentée en classe."
 
 # game/script.rpy:537
 translate french start_c0f486d3:
@@ -1880,13 +1880,13 @@ translate french start_c0f486d3:
 translate french start_f234dcd7:
 
     # extend " Ira has always had a bad attendance record."
-    extend " Ira a toujours eu un faible taux de présence en cours."
+    extend " Ira a toujours eu un haut taux d'absence en cours."
 
 # game/script.rpy:539
 translate french start_6e99bb30:
 
     # "So I assume she skipped as usual..."
-    "Alors j’en déduit qu’elle a séché les cours comme d’habitude..."
+    "Alors j’en déduis qu’elle a séché les cours comme à son habitude..."
 
 # game/script.rpy:540
 translate french start_f9c2bd3c:
@@ -1898,7 +1898,7 @@ translate french start_f9c2bd3c:
 translate french start_677a1ab7:
 
     # extend " Did she go to him right away?"
-    extend ""
+    extend " Est-elle allée le voir immédiatement?"
 
 # game/script.rpy:542
 translate french start_c138523d:
@@ -1911,6 +1911,12 @@ translate french start_33b959a6:
 
     # extend " in that case, yesterday evening..."
     extend " dans ce cas, l’évènement d’hier..."
+
+# Ajout manuel numéro 1
+translate french strings:
+
+    old "{i}“Go home, Asya.”"
+    new "{i}“Retourne chez toi, Asya.”"
 
 # game/script.rpy:567
 translate french start_61e86d26:
@@ -3435,4 +3441,3 @@ translate french start_ddcfe061:
 
     # "The whole wide world wants me to know."
     ""
-

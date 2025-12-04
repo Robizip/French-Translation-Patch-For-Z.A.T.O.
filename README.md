@@ -11,7 +11,7 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 
 # État de la traduction :
 - Menus : Traduction Finie (normalement)
-- Épisode 0 : Ça avance.
+- Épisode 0 : Plus de 50% a été traduit.
 - Épisode 1 : Pas commencé
 - Épisode 2 : Pas commencé
 - Épisode 3 : Pas commencé
