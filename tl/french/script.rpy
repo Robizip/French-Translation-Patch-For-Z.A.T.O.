@@ -1804,19 +1804,19 @@ translate french start_a45aeb59:
 translate french start_c29080bf:
 
     # extend " Yeah, I shouldn't have wished for that."
-    extend ""
+    extend " Ouais, je n’aurais pas dû souhaiter ça. "
 
 # game/script.rpy:516
 translate french start_60702c97:
 
     # extend " If Ira saw that, it would just add fuel to the fire."
-    extend ""
+    extend " Si Ira avait vu ça, elle aurait juste jeter de l'huile sur le feu."
 
 # game/script.rpy:517
 translate french start_24c24517:
 
     # "So it's a good thing that she didn't interfere."
-    ""
+    "Alors c’est une bonne chose qu’elle ne soit pas intervenue."
 
 # game/script.rpy:518
 translate french start_849ebc50:
