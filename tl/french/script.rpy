@@ -83,19 +83,19 @@ translate french start_7d12504d:
 translate french start_e44aabaa:
 
     # extend " You could even call it underwhelming compared to other stars of its type."
-    extend " Nous pouvons même la qualifier de décevante comparée aux autres étoiles de son genre."
+    extend " Il peux même être qualifié de décevant comparé aux autres étoiles de son genre."
 
 # game/script.rpy:83
 translate french start_9ea3fb72:
 
     # "But even so, it works harder than most to shine as bright as it can."
-    "Et pourtant, elle travaille plus dure que les autres pour essayer de briller aussi fort que possible."
+    "Et pourtant, elle travaille encore plus dure que les autres pour essayer de briller aussi fort que possible."
 
 # game/script.rpy:84
 translate french start_38aafcbc:
 
     # extend " And I find that really cute."
-    extend " Et je trouve ça\nvraiment mignon."
+    extend " Et je trouve ça vraiment mignon."
 
 # game/script.rpy:92
 translate french start_d6911c56:
@@ -107,7 +107,7 @@ translate french start_d6911c56:
 translate french start_ce4b1e27:
 
     # extend " Must have been some newspaper from years ago."
-    extend " Mais cela devait être dans un journal datant de quelques années."
+    extend " Mais cela devait être dans un journal il y a quelques années."
 
 # game/script.rpy:94
 translate french start_61b68228:
@@ -119,13 +119,13 @@ translate french start_61b68228:
 translate french start_362016be:
 
     # "It’s not much of a view, to be honest."
-    "Pour être honnête, ce n’est pas une vue terrible."
+    "Pour être honnête, la vue n'est pas terrible."
 
 # game/script.rpy:96
 translate french start_e19da8bc:
 
     # extend " Not much of a sky, not much of a sun."
-    extend " Ce n’est pas non plus terrible ni pour un ciel ni pour\nun soleil."
+    extend " C’est pas non plus terrible comme un ciel et comme soleil."
 
 # game/script.rpy:97
 translate french start_a69c39d1:
