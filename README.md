@@ -10,8 +10,8 @@ French Translation Patch Of "Z.A.T.O. // I Love the World and Everything In It" 
 Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl" des fichiers de votre jeu.
 
 # État de la traduction :
-- Menus : Traduction Finie (normalement)
-- Épisode 0 : Plus de 50% a été traduit.
+- Menus : 100% (normalement)
+- Épisode 0 : Plus de 50%.
 - Épisode 1 : Pas commencé
 - Épisode 2 : Pas commencé
 - Épisode 3 : Pas commencé
@@ -20,6 +20,11 @@ Si vous voulez retirer le patch de votre jeu, vous devrez enlever le dossier "tl
 - 1 : Téléchargez les fichiers en appuyant sur le bouton vert **"<> Code"** puis sur **"Download ZIP"**
 - 2 : Décompressez le patch et modifiez les fichiers du patch présent dans "tl" puis "french" avec quoi que ce soit qui puisse ouvrir du texte
 - 3 : Envoyez-moi ensuite les fichiers d'un façon ou d'un autre pour que je puisse les vérifier et les ajouter au patch <sub>*(Vous serrez évidemment crédité)*</sub>
+
+## Estimation de la date de sortie de la 1.0 du patch FR
+Je dirais à la vitesse à laquelle je vais, je dirais aux environs de mai-juin 2026.
+
+*(date suceptible de changer.)*
 
 ---
 Si vous avez un problème avec le patch, merci de me contacter par [email](mailto:Robot007c@tutanota.com) ou par Discord (robizip.).

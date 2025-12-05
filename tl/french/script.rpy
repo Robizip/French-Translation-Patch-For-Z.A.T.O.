@@ -16,6 +16,21 @@ define bb = Character("[[GARÇON]", color="#ffffff",)
 define up = Character("[[ÉTUDIANT A]", color="#ffffff",)
 define ud = Character("[[ÉTUDIANT B]", color="#ffffff",)
 
+# Bloc de code servant à remplacer l'intro du jeu (Merci ChatGPT)
+#--------------------------------------------------------------------------------------------------------------
+init python:
+    import renpy.exports as renpy_exports
+
+    intro_originale = renpy_exports.movie_cutscene
+
+    def nouvelle_intro(chemin_intro, *args, **kwargs):
+        if chemin_intro == 'images/intro.webm':
+            chemin_intro = "tl/French-Translation-Patch-For-Z.A.T.O/tl/french/videos/intro.webm"
+        return intro_originale(chemin_intro, *args, **kwargs)
+
+    renpy_exports.movie_cutscene = nouvelle_intro
+#--------------------------------------------------------------------------------------------------------------
+
 # game/script.rpy:73
 translate french start_2b370c74:
 
@@ -1922,43 +1937,43 @@ translate french strings:
 translate french start_61e86d26:
 
     # "The teacher’s office, was it...?"
-    "Le bureau des professeurs, est-ce là...?"
+    "Le bureau des professeurs, est-ce...?"
 
 # game/script.rpy:568
 translate french start_899e030c:
 
     # "I’m kinda scared of going straight to the police."
-    ""
+    "Je suis assez apeurée d'aller directement voir la police."
 
 # game/script.rpy:569
 translate french start_6ca272ac:
 
     # extend " But I should..."
-    extend ""
+    extend " Mais je devrais..."
 
 # game/script.rpy:570
 translate french start_a7f6d6cc:
 
     # extend " I should probably report that."
-    extend ""
+    extend " Je devrais probablement signaler ça."
 
 # game/script.rpy:571
 translate french start_dc0f3e6b:
 
     # "Not sure if it will be of any help."
-    ""
+    "Je ne suis pas sûre que cela sera utile."
 
 # game/script.rpy:572
 translate french start_9cfebb8e:
 
     # extend " And for some reason the idea of telling anyone what I saw..."
-    extend ""
+    extend " Et pour une raison ou une autre, l'idée de dire à quelqu’un ce que j'ai vu..."
 
 # game/script.rpy:573
 translate french start_afbb7242:
 
     # extend " something about it just doesn’t sit right with me."
-    extend ""
+    extend " quelque chose là-dedans me dérange."
 
 # game/script.rpy:574
 translate french start_784ad581:
@@ -2462,19 +2477,19 @@ translate french start_cd27cb62:
 translate french start_f7653c39:
 
     # q "Oh..."
-    q ""
+    q "Oh..."
 
 # game/script.rpy:707
 translate french start_7cab623c:
 
     # extend " Oh, no!"
-    extend ""
+    extend "Oh, non!"
 
 # game/script.rpy:708
 translate french start_414b8ee2:
 
     # extend " I’m just waiting for someone."
-    extend ""
+    extend "J'attends juste quelqu'un. "
 
 # game/script.rpy:709
 translate french start_2eeb52e6:

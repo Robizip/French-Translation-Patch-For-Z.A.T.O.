@@ -6036,7 +6036,7 @@ translate french ep2d7_57160f7e:
 translate french ep2d7_eea6d97e:
 
     # extend " Like, come on, take pity on your teeth."
-    extend ""
+    extend " Allez, aie pitié de tes dents."
 
 # game/ep2d7.rpy:1664
 translate french ep2d7_adcc954f:
@@ -6048,19 +6048,19 @@ translate french ep2d7_adcc954f:
 translate french ep2d7_18e5ac9d:
 
     # m "{cps=80}Smoking, too..."
-    m ""
+    m "{cps=80}Et puis, fumer..."
 
 # game/ep2d7.rpy:1666
 translate french ep2d7_20860a9a:
 
     # extend " Who’s gonna kiss ya when you stink like that, huh?"
-    extend ""
+    extend " Qui voudra t'embrasser si tu sens si mauvais, hein?"
 
 # game/ep2d7.rpy:1667
 translate french ep2d7_350f021f:
 
     # extend " \n...Hehe, I’m kidding, I’m kidding."
-    extend ""
+    extend "\n...Héhé, je plaisante, je plaisante."
 
 # game/ep2d7.rpy:1670
 translate french ep2d7_d5affeec:
