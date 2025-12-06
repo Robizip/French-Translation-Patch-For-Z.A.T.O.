@@ -482,7 +482,7 @@
 
     # renpy/common/00library.rpy:230
     old "Skip Mode"
-    new ""
+    new "Mode Saut"
 
     # renpy/common/00library.rpy:316
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."

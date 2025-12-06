@@ -25,7 +25,7 @@ init python:
 
     def nouvelle_intro(chemin_intro, *args, **kwargs):
         if chemin_intro == 'images/intro.webm':
-            chemin_intro = "tl/French-Translation-Patch-For-Z.A.T.O/tl/french/videos/intro.webm"
+            chemin_intro = "tl/french/videos/intro.webm"
         return intro_originale(chemin_intro, *args, **kwargs)
 
     renpy_exports.movie_cutscene = nouvelle_intro

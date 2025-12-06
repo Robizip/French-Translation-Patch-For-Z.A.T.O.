@@ -102,7 +102,7 @@
 
     # game/screens.rpy:703
     old "{#quick_page}Q"
-    new "{#quick_page}Q"
+    new "{#quick_page}R"
 
     # game/screens.rpy:709
     old ">"
