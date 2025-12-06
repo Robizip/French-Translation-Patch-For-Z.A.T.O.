@@ -16,21 +16,6 @@ define bb = Character("[[GARÇON]", color="#ffffff",)
 define up = Character("[[ÉTUDIANT A]", color="#ffffff",)
 define ud = Character("[[ÉTUDIANT B]", color="#ffffff",)
 
-# Bloc de code servant à remplacer l'intro du jeu (Merci ChatGPT)
-#--------------------------------------------------------------------------------------------------------------
-init python:
-    import renpy.exports as renpy_exports
-
-    intro_originale = renpy_exports.movie_cutscene
-
-    def nouvelle_intro(chemin_intro, *args, **kwargs):
-        if chemin_intro == 'images/intro.webm':
-            chemin_intro = "tl/french/videos/intro.webm"
-        return intro_originale(chemin_intro, *args, **kwargs)
-
-    renpy_exports.movie_cutscene = nouvelle_intro
-#--------------------------------------------------------------------------------------------------------------
-
 # game/script.rpy:73
 translate french start_2b370c74:
 
